@@ -63,7 +63,7 @@
             <a href="gp.pelegrine@gmail.com">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
             </a>
-            <a href="https://api.whatsapp.com/send/?phone=55119979521202&text=Ol%C3%A1%21+Aqui+%C3%A9+o+Victor+Basso%2C+programador+fullstack+e+webdesigner.+Estou+dispon%C3%ADvel+para+conversar+sobre+seus+projetos+e+ideias+para+a+web.+Obrigado%21&type=phone_number&app_absent=0">
+            <a href="https://api.whatsapp.com/send/?phone=5511979521202&text=Ol%C3%A1%21+Aqui+%C3%A9+o+Gabriel+Pelegrine%2C+programador+fullstack.+Estou+dispon%C3%ADvel+para+conversar+sobre+seus+projetos+e+ideias+para+a+web.+Obrigado%21&type=phone_number&app_absent=0">
                 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
             </a>
         </div>
