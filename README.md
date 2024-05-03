@@ -39,7 +39,6 @@
       <div align="center">
       <h3>🎨Design UI|UX:</h3>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Gabriel Pelegrine"  height="40"/>
-        <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="Gabriel Pelegrine"  height="40"/>
       </div>
     </td>
     <td>
