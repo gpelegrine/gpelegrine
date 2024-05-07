@@ -4,13 +4,7 @@
 
 ##
 
-<div align="center">
-         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gpelegrine&show_icons=true&theme=radical"/>
-         <a href="https://github.com/gpelegrine">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpelegrine&langs_count=10&count_private=true&theme=radical&layout=compact"/>
-</div>
-
-##
+[![Gabriel github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gpelegrine&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - Back-End
 
@@ -19,8 +13,6 @@
 - Front-End
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,react,next,figma,css,html)](https://skillicons.dev)
-
-[![Gabriel github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gpelegrine&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
