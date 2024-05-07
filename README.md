@@ -8,7 +8,7 @@
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,nodejs,express,prisma,graphql,nest,postgres,docker,azure)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,nodejs,express,prisma,graphql,nest,postgres,docker,azure,aws)](https://skillicons.dev)
 
 - Front-End
 
